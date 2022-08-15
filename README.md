@@ -1,5 +1,7 @@
 # component-demo
 
+一些自制组件的演示demo
+
 ## Project setup
 ```
 npm install
