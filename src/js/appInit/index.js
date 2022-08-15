@@ -2,7 +2,7 @@ import initUi from '@/js/appInit/src/ui.js'
 import initUitls from '@/js/appInit/src/utils.js'
 import initVueCommon from '@/js/appInit/src/vueCommon.js'
 import initAppPlugin from '@/js/appInit/src/appPlugin.js'
-import initAppLogger from '@/js/appInit/src/appLogger.js'
+// import initAppLogger from '@/js/appInit/src/appLogger.js'
 import initLang from '@/js/appInit/src/lang.js'
 
 
@@ -22,5 +22,5 @@ export default (vue) => {
 	initUitls(vue)
 	initVueCommon(vue)
 	initAppPlugin(vue)
-	initAppLogger(vue)
+	// initAppLogger(vue)
 }

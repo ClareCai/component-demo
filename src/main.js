@@ -8,5 +8,5 @@ const app = {}
 Vue.config.productionTip = false
 
 app.vue = appMount(Vue, router, store, App)
-app.vue.$fxLogger.init(app.vue.$store.state.loginer)
+// app.vue.$fxLogger.init(app.vue.$store.state.loginer)
 export default app
