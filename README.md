@@ -1,4 +1,4 @@
-# fx-scm8
+# component-demo
 
 ## Project setup
 ```
