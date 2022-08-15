@@ -1,4 +1,4 @@
-# test
+# fx-scm8
 
 ## Project setup
 ```
